@@ -1,0 +1,498 @@
+{
+  "banner":[
+    {
+      "fileName":"01.png"
+    },
+    {
+      "fileName":"02.png"
+    }
+  ],
+  "products" : [
+    {
+      "pid":"aa_001",
+      "p_name":"Formal Black Wallet",
+      "tag":"new",
+      "img_name":"aa1.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"Genuine Leather Men's Wallet Made of Premium Quality Leather to give a Luxurious Experience to user. Best of Craftsmanship makes our Wallet an Accessory to flaunt of ! it comes in a Luxurious Gift Box! 4.30\"L x 0.60\"W x 4\"H",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_001/0.png",
+              "img-big":"/img/product/view1/aa_001/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_001/1.png",
+              "img-big":"/img/product/view1/aa_001/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_001/2.png",
+              "img-big":"/img/product/view1/aa_001/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_001/3.png",
+              "img-big":"/img/product/view1/aa_001/3.png"
+            },
+            {
+              "img":"/img/product/view0/aa_001/4.png",
+              "img-big":"/img/product/view1/aa_001/4.png"
+            }
+          ]
+        }
+    },
+
+    {
+      "pid":"aa_002",
+      "p_name":"Textured Black Wallet",
+      "tag":"new",
+      "img_name":"aa2.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_002/0.png",
+              "img-big":"/img/product/view1/aa_002/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_002/1.png",
+              "img-big":"/img/product/view1/aa_002/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_002/2.png",
+              "img-big":"/img/product/view1/aa_002/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_002/3.png",
+              "img-big":"/img/product/view1/aa_002/3.png"
+            },
+            {
+              "img":"/img/product/view0/aa_002/4.png",
+              "img-big":"/img/product/view1/aa_002/4.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_003",
+      "p_name":"Classic Black Wallet",
+      "tag":"new",
+      "img_name":"aa3.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_003/0.png",
+              "img-big":"/img/product/view1/aa_003/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_003/1.png",
+              "img-big":"/img/product/view1/aa_003/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_003/2.png",
+              "img-big":"/img/product/view1/aa_003/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/2.png",
+              "img-big":"/img/product/view1/aa_004/2.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_004",
+      "p_name":"Smooth Black Wallet",
+      "tag":"new",
+      "img_name":"aa4.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_004/0.png",
+              "img-big":"/img/product/view1/aa_004/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/1.png",
+              "img-big":"/img/product/view1/aa_004/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/2.png",
+              "img-big":"/img/product/view1/aa_004/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/3.png",
+              "img-big":"/img/product/view1/aa_004/3.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/4.png",
+              "img-big":"/img/product/view1/aa_004/4.png"
+            },
+            {
+              "img":"/img/product/view0/aa_004/5.png",
+              "img-big":"/img/product/view1/aa_004/5.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_005",
+      "p_name":"Checkered Black Wallet",
+      "tag":"new",
+      "img_name":"aa5.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"Genuine Leather Men's Wallet Made of Premium Quality Leather to give a Luxurious Experience to user. Best of Craftsmanship makes our Wallet an Accessory to flaunt of ! it comes in a Luxurious Gift Box! 4.30\"L x 0.60\"W x 4\"H",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_005/0.png",
+              "img-big":"/img/product/view1/aa_005/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_005/1.png",
+              "img-big":"/img/product/view1/aa_005/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_005/2.png",
+              "img-big":"/img/product/view1/aa_005/2.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_006",
+      "p_name":"Elegant Black Wallet",
+      "tag":"new",
+      "img_name":"aa6.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Black",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_006/0.png",
+              "img-big":"/img/product/view1/aa_006/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_006/1.png",
+              "img-big":"/img/product/view1/aa_006/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_006/2.png",
+              "img-big":"/img/product/view1/aa_006/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_006/3.png",
+              "img-big":"/img/product/view1/aa_006/3.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_007",
+      "p_name":"Smooth Brown Wallet",
+      "tag":"new",
+      "img_name":"aa7.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "4.30\"L X 0.60\"W X 4\"H",
+            "walletColor" : "Brown",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_007/0.png",
+              "img-big":"/img/product/view1/aa_007/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_007/1.png",
+              "img-big":"/img/product/view1/aa_007/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_007/2.png",
+              "img-big":"/img/product/view1/aa_007/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_007/3.png",
+              "img-big":"/img/product/view1/aa_007/3.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_008",
+      "p_name":"Veritable Black Wallet",
+      "tag":"new",
+      "img_name":"aa8.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "3.38\"L X 0.75\"W X 4\"H",
+            "walletColor" : "Tan",
+            "walletClosure" : "Tri-FOLD",
+            "walletType" : "Long Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "9",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_008/0.png",
+              "img-big":"/img/product/view1/aa_008/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_008/1.png",
+              "img-big":"/img/product/view1/aa_008/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_008/2.png",
+              "img-big":"/img/product/view1/aa_008/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_008/3.png",
+              "img-big":"/img/product/view1/aa_008/3.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_009",
+      "p_name":"Veritable Tan Wallet",
+      "tag":"new",
+      "img_name":"aa9.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"",
+          "additionalInfo":{
+            "dimensions" : "3.38\"L X 0.75\"W X 4\"H",
+            "walletColor" : "Tan",
+            "walletClosure" : "Tri-FOLD",
+            "walletType" : "Long Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "9",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_009/0.png",
+              "img-big":"/img/product/view1/aa_009/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_009/1.png",
+              "img-big":"/img/product/view1/aa_009/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_009/2.png",
+              "img-big":"/img/product/view1/aa_009/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_009/3.png",
+              "img-big":"/img/product/view1/aa_009/3.png"
+            },
+            {
+              "img":"/img/product/view0/aa_009/4.png",
+              "img-big":"/img/product/view1/aa_009/4.png"
+            }
+          ]
+        }
+
+
+
+    },
+
+    {
+      "pid":"aa_010",
+      "p_name":"Formal Brown Wallet",
+      "tag":"new",
+      "img_name":"aa10.png",
+      "category":"Men Wallet",
+      "productDetail":
+        {
+          "mrp" :"",
+          "offerPrice":"",
+          "discount":"",
+          "description":"Genuine Leather Men's Wallet Made of Premium Quality Leather to give a Luxurious Experience to user. Best of Craftsmanship makes our Wallet an Accessory to flaunt of ! it comes in a Luxurious Gift Box! 4.30\"L x 0.60\"W x 4\"H",
+          "additionalInfo":{
+            "dimensions" : "4.5\"L X 0.75\"W X 4\"H",
+            "walletColor" : "Brown",
+            "walletClosure" : "BI-FOLD",
+            "walletType" : "Regular Wallet",
+            "material" : "Leather",
+            "withChain" : "No",
+            "coinPouch" : "No",
+            "cardPockets" : "6",
+            "packaging" : "Luxurious Gift Box"
+          },
+          "img":[
+            {
+              "img":"/img/product/view0/aa_010/0.png",
+              "img-big":"/img/product/view1/aa_010/0.png"
+            },
+            {
+              "img":"/img/product/view0/aa_010/1.png",
+              "img-big":"/img/product/view1/aa_010/1.png"
+            },
+            {
+              "img":"/img/product/view0/aa_010/2.png",
+              "img-big":"/img/product/view1/aa_010/2.png"
+            },
+            {
+              "img":"/img/product/view0/aa_010/3.png",
+              "img-big":"/img/product/view1/aa_010/3.png"
+            },
+            {
+              "img":"/img/product/view0/aa_010/4.png",
+              "img-big":"/img/product/view1/aa_010/4.png"
+            }
+          ]
+        }
+
+
+
+    }
+  ]
+}
